@@ -1,2 +1,2 @@
 # Ddmitryk
-print("Hi, friend")
+print("Hi, friend!")

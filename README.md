@@ -1,1 +1,2 @@
 # Ddmitryk
+print("Hi, friend")
